@@ -18,7 +18,7 @@
       "run": [
         "/bin/paintball"
       ],
-      "source_url": "https://github.com/Metta-AI/cogame-paintball/tree/main"
+      "source_url": "https://github.com/softmax-universe/cogame-paintball/tree/main"
     },
     "replay_viewer": {
       "bundle": "static-replay-viewer"
@@ -507,7 +507,7 @@
       "env": {
         "PLAYER_SCRIPTED": "holdline"
       },
-      "source_url": "https://github.com/Metta-AI/cogame-paintball/tree/main",
+      "source_url": "https://github.com/softmax-universe/cogame-paintball/tree/main",
       "resources": {
         "requests": {
           "cpu": "100m",
